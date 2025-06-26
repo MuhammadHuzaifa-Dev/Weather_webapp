@@ -63,7 +63,9 @@ button {
     padding: 15px;
   }
 
-  input,
+ input {
+  padding: 10px;
+ }
   button {
     width: 100%;
     font-size: 15px;
