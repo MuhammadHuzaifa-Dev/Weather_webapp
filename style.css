@@ -60,18 +60,18 @@ button {
 /* 🔽 Media query for Pixel 7 and similar mobile devices */
 @media (max-width: 430px) {
   .container {
-    width: 90%;
+    width: 80%;
     padding: 15px;
     position:fixed;
   }
 
  .container input {
-  width: auto;
+  width: 80%;
   padding: 12px;
   margin-bottom: 10px;
  }
   .container button {
-    width: auto;
+    width: 80%;
     font-size: 15px;
     padding: 12px;
     margin-bottom: 10px;
