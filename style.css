@@ -66,12 +66,12 @@ button {
   }
 
  input {
-  width: 90%;
+  width: auto;
   padding: 12px;
   margin-bottom: 10px;
  }
   button {
-    width: 95%;
+    width: auto;
     font-size: 15px;
     padding: 12px;
     margin-bottom: 10px;
